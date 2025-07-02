@@ -1,4 +1,3 @@
-#updated
 streamlit
 pandas
 plotly
